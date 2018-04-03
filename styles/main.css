@@ -1,0 +1,21 @@
+table {
+    border-collapse : collapse;
+    width:50%;
+    margin-bottom: 2em;
+}
+
+table,
+td,
+tr,
+th {
+    border:1px solid black;
+    background-color: green;
+}
+th,
+td,{
+    padding:0.8em;
+}
+th {
+    background-color: gray
+
+}
